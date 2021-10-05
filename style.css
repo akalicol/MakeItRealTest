@@ -1,0 +1,31 @@
+body 
+{
+  background-image: url("https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+}
+  
+.imgRedonda {
+  width:300px;
+  height:300px;
+  border-color: white;
+  border-width: 5px;
+  border-radius:150px;
+  margin-left: 500px;
+  margin-top: 150px;
+}
+
+#nameText
+{
+  color: white;
+  font-family: 'Gemunu Libre', sans-serif;
+  margin-left: 550px;
+  font-size: 20px;
+}
+
+#wasBorn
+{
+  color: white;
+  font-family: 'Gemunu Libre', sans-serif;
+  margin-left: 600px;
+  font-size: 20px;
+}
